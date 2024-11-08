@@ -1,4 +1,4 @@
-#pragma once //Load 1 time in memory explication in this video min 9
+#pragma once //Load 1 time in memory 
 
 #include <iostream>
 #include <vector>
