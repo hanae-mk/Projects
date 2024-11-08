@@ -1,10 +1,4 @@
 
-//Every Method doesn't modify a member in object we set it as "static" 
-//so every user can use the method
-//NOTE : YOU SHOULD NEVER HAVE PUBLIC VARIABLES IN CLASS
-//IT's OK TO HAVE PUBLIC FUNCTIONS/METHODS IN YOUR CLASS BUT ALWAYS SET VARIABLES/Members 
-//AS PRIVATE for security
-
 #pragma once
 #include <iostream>
 #include <string>
