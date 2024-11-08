@@ -1,2 +1,2 @@
-# C-Projects
-C++ projects
+# Cpp Projects
+A various projects in c++ language
